@@ -14,7 +14,6 @@ body {
     font-size: 15px; /* Tamaño de fuente base */
 }
 
-
 header {
     background: #007BFF;
     color: #fff;
@@ -246,15 +245,12 @@ section {
     margin-top: 1rem;
 }
 
-
 /* Formulario de Contacto */
 form {
     max-width: 600px;
     margin: 0 auto;
     text-align: left;
 }
-
-
 
 #contacto {
     background: #ffffff;
@@ -317,7 +313,10 @@ footer .redes-sociales a:hover {
     text-decoration: underline;
 }
 
-
+button {
+    align-self:center;
+    width: 200px;
+}
 
 /* Estilos para la sección de la hoja de vida */
 .header {
@@ -327,8 +326,6 @@ footer .redes-sociales a:hover {
     border-bottom: 2px solid #333;
     padding-bottom: 10px;
 }
-
-
 
 h6 {
    font-size: 24px; 
@@ -352,8 +349,6 @@ h5 {
     margin-bottom: 1rem;
     font-size: 1.70rem; /* Tamaño de fuente más grande para los títulos */
 }
-
-
 
 #cv h4 {
     margin-top: 1.5rem;
@@ -442,12 +437,15 @@ h5 {
     font-size: 1.25rem; /* Tamaño de fuente más grande para el botón */
 }
 
+.boton {
+text-align: center;
+}
+
 #cv button:hover {
     background: #0056b3;
 }
 
 /* Estilos para la impresión */
-
 @media print {
     body {
         color: #000;
@@ -512,7 +510,7 @@ h5 {
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 401px) {
     body {
         font-size: 14px;
     }
