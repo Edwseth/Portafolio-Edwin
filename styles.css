@@ -32,6 +32,10 @@ nav ul {
     margin: 0;
 }
 
+.linea {
+    display: flex;
+}
+
 nav ul li {
     margin: 0 1rem;
 }
@@ -536,5 +540,9 @@ h5 {
 
     #cv-content button {
         font-size: 0.875rem;
+    }
+    
+    nav ul {
+        flex-wrap: wrap;
     }
 }
