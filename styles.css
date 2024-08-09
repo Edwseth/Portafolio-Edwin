@@ -476,6 +476,10 @@ text-align: center;
         font-size: 1.25rem;
     }
 
+     nav ul {
+        flex-wrap: wrap;
+    }
+    
     nav ul li {
         margin: 0.5rem 0;
     }
@@ -539,8 +543,5 @@ text-align: center;
     #cv-content button {
         font-size: 0.875rem;
     }
-    
-    nav ul {
-        flex-wrap: wrap;
-    }
+     
 }
