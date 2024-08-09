@@ -19,7 +19,7 @@ header {
     color: #fff;
     padding: 1rem 0;
     text-align: center;
-    font-size: 1.5rem; /* Tamaño de fuente más grande para el encabezado */
+    font-size: 1.45rem; /* Tamaño de fuente más grande para el encabezado */
 }
 
 nav ul {
@@ -473,7 +473,7 @@ text-align: center;
 /* Estilos responsivos */
 @media (max-width: 767px) {
     header {
-        font-size: 1.25rem;
+        font-size: 1.20rem;
     }
 
      nav ul {
