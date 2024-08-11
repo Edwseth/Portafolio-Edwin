@@ -7,7 +7,7 @@
 - [Sobre Mí](#sobre-mí)
 - [Proyectos](#proyectos)
 - [Habilidades](#habilidades)
-- [Competencias Clave](#habilidades)
+- [Competencias Clave](#competencias-clave)
 - [Contacto](#contacto)
 - [Hoja de Vida](#hoja-de-vida)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
