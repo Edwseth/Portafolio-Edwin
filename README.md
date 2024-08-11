@@ -62,7 +62,7 @@ En mi portafolio, encontrarás una sección dedicada a mi hoja de vida, donde po
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/Edwseth/portafolio.git
+    git clone https://github.com/Edwseth/Portafolio-Edwin.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
