@@ -7,6 +7,7 @@
 - [Sobre Mí](#sobre-mí)
 - [Proyectos](#proyectos)
 - [Habilidades](#habilidades)
+- [Competencias Clave](#habilidades)
 - [Contacto](#contacto)
 - [Hoja de Vida](#hoja-de-vida)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
@@ -22,6 +23,9 @@ Soy Edwin Serrano, un desarrollador web apasionado con más de 11 años de exper
 
 ## Proyectos
 
+### [Portafolio](https://github.com/Edwseth/Portafolio-Edwin)
+Una aplicación web que muestra mis proyectos y habilidades, diseñada con HTML, CSS y JavaScript..
+
 ### [Encriptador de Texto](https://github.com/Edwseth/encriptadoTexto)
 Una aplicación web que permite encriptar y desencriptar texto usando algoritmos de cifrado básico.
 
@@ -33,6 +37,10 @@ Un juego interactivo donde el usuario debe adivinar un número aleatorio en un r
 - **HTML**: Experto en la creación de estructuras web semánticas y accesibles.
 - **CSS**: Habilidades avanzadas en diseño responsivo, Flexbox y Grid Layout.
 - **JavaScript**: Conocimientos sólidos en programación, manipulación del DOM y creación de aplicaciones web interactivas.
+
+## Competencias Clave
+
+Aquí puedes encontrar un listado de mis competencias más relevantes como profesional
 
 ## Contacto
 
